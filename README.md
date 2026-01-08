@@ -1,7 +1,7 @@
 # MATLAB – Technical Computing Software
 
 <div align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" width="250" alt="MATLAB Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width="250" alt="MATLAB Logo"/>  
 </div>  
 
 <br>  
